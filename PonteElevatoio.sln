@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonteElevatoio", "PonteElevatoio.csproj", "{A65C6953-12E1-4AF2-90FF-175B52C7D992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65C6953-12E1-4AF2-90FF-175B52C7D992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65C6953-12E1-4AF2-90FF-175B52C7D992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65C6953-12E1-4AF2-90FF-175B52C7D992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65C6953-12E1-4AF2-90FF-175B52C7D992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482D58DE-D562-467C-BBA8-4377ED8F5192}
+	EndGlobalSection
+EndGlobal
